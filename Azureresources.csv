@@ -1,0 +1,7 @@
+﻿NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"databaricks","Azure Databricks Service","ekane","East US","Efrei - Hackathon"
+"datafactorystock","Data factory (V2)","ekane","East US","Efrei - Hackathon"
+"datastoragelab3","Storage account","ekane","East US","Efrei - Hackathon"
+"ekane","Batch account","ekane","East US 2","Efrei - Hackathon"
+"stockdblab3server","SQL server","ekane","East US","Efrei - Hackathon"
+"stocks_db (stockdblab3server/stocks_db)","SQL database","ekane","East US","Efrei - Hackathon"
