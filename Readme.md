@@ -142,6 +142,4 @@ python data_upload.py datalake
 - Azure Databricks
 - Azure SQL Database
 
-**Demo of the pipeline :**  
 
-![Demo](AzureDF1.gif)
