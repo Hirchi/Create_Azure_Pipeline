@@ -1,1 +1,6 @@
-azure-storage
+azure-mgmt-resource
+azure-mgmt-rdbms
+azure-identity
+mysql
+mysql-connector
+
